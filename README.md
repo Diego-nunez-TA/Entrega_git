@@ -1,1 +1,2 @@
-# Entrega_git
+# Repositorio de entrega Taller GitHub.
+En este repositorio teneis que entregar
